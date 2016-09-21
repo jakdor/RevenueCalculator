@@ -1,0 +1,15 @@
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Release\LajaProjekt.exe.config
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Release\Database.mdf
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Release\Database_log.ldf
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Release\LajaProjekt.exe
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Release\LajaProjekt.pdb
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Release\LajaProjekt.Form1.resources
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Release\LajaProjekt.Properties.Resources.resources
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Release\LajaProjekt.csproj.GenerateResource.Cache
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Release\LajaProjekt.exe
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Release\LajaProjekt.pdb
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Release\ClosedXML.dll
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Release\DocumentFormat.OpenXml.dll
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Release\ClosedXML.xml
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Release\DocumentFormat.OpenXml.xml
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Release\LajaProjekt.csprojResolveAssemblyReference.cache

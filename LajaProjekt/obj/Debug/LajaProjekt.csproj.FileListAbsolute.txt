@@ -1,0 +1,18 @@
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Debug\LajaProjekt.exe.config
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Debug\LajaProjekt.exe
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Debug\LajaProjekt.pdb
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Debug\LajaProjekt.Form1.resources
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Debug\LajaProjekt.Properties.Resources.resources
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Debug\LajaProjekt.csproj.GenerateResource.Cache
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Debug\LajaProjekt.exe
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Debug\LajaProjekt.pdb
+C:\Users\Jakub\Desktop\LajaProjekt\LajaProjekt\bin\Debug\LajaProjekt.exe.config
+C:\Users\Jakub\Desktop\LajaProjekt\LajaProjekt\obj\Debug\LajaProjekt.exe
+C:\Users\Jakub\Desktop\LajaProjekt\LajaProjekt\obj\Debug\LajaProjekt.pdb
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\obj\Debug\LajaProjekt.csprojResolveAssemblyReference.cache
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Debug\Database.mdf
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Debug\Database_log.ldf
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Debug\ClosedXML.dll
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Debug\ClosedXML.xml
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Dokumenty\Elektronika i informatyka\programowanie\C#\projekty\programy\LajaProjekt\LajaProjekt\bin\Debug\DocumentFormat.OpenXml.xml
